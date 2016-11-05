@@ -1,8 +1,5 @@
 # Livv
 
-TODO:
+A live feed of what's going on around you. 
 
-* Notifications
-* Invite View Controller
-* Realm location query
-# iOS
+Implements a quadtree to quickly sort through all items on a map. 
